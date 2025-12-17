@@ -1,0 +1,14 @@
+match_id,runs,balls,fours,sixes,dismissal,overs,runs_conceded,wickets
+1,45,32,5,1,caught,2,18,1
+2,60,48,7,2,not out,3,20,0
+3,10,15,1,0,bowled,4,30,2
+4,75,52,8,3,not out,2,14,1
+5,33,28,4,1,caught,5,40,3
+6,55,44,6,1,run out,3,22,0
+7,12,20,1,0,lbw,4,35,2
+8,88,60,10,2,not out,2,16,1
+9,20,18,2,0,caught,3,21,0
+10,47,37,5,1,caught,4,29,2
+11,108,54,10,10,caught,2,12,3
+12,45,34,5,2,run out,1,5,1
+13,89,67,9,2,not out,1,5,1
